@@ -1,8 +1,8 @@
 {
-    "name": "taahirisaacs/gf-hubspot",
+    "name": "fluxfullcircle/gf-hubspot",
     "description": "",
     "keywords": ["wordpress", "plugin"],
-    "homepage": "https://github.com/taahirisaacs/gf-hubspot",
+    "homepage": "https://github.com/fluxfullcircle/gf-hubspot",
     "type": "wordpress-plugin",
     "require": {
       "php": ">=7.1"
